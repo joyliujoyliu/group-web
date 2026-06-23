@@ -2,7 +2,7 @@
 # Building Websites in GitHub
 
 ## Description
-{{site.decription}}
+{{site.description}}
 
 This is an example website built while learning how to use Jekyll and GitHub Pages.
 
