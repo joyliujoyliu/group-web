@@ -2,6 +2,7 @@
 
 ## Project
 This research project is all about teaching you how to create websites with GitHub pages.
+{{site.decription}}
 
 ## Funders
 We gratefully acknowledge funding from the XYZ Founding Council, under grant number 'abc'.
@@ -13,5 +14,5 @@ You can cite the project as:
 
 ## Contact us
 
-- Email: [team@carpentries.org](mailto:team@carpentries.org)
+- Email: [team@carpentries.org](mailto:team@carpentries.org) {{site.email}}
 - GitHub: [https://github.com/swcarpentry](https://github.com/swcarpentry)
