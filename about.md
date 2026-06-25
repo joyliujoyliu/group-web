@@ -16,7 +16,8 @@ You can cite the project as:
 
 ## Contact us
 
-{% include footer.html %}
-
 - Email: {{site.email}}
 - GitHub: {{site.github}}
+
+
+{% include footer.html %}
